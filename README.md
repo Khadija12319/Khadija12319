@@ -26,7 +26,7 @@
 
 # Statitics
 
-<p align="center">
+<p align="center" display="inline">
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=Khadija12319&theme=dark&show_icons=true)
 
