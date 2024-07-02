@@ -13,7 +13,7 @@
 # 📊 Current Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Khadija12319&theme=dark&hide_border=true&border_radius=4.7&exclude_days=Mon&card_height=200" width=70% alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=Khadija12319&theme=dark&hide_border=true&border_radius=4.7&exclude_days=Mon&card_height=200&mode=weekly" width=70% alt="GitHub Streak Stats">
 </p>
 
 
