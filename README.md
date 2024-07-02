@@ -12,7 +12,9 @@
 
 # 📊 Current Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Khadija12319&theme=dark&hide_border=true&border_radius=4.7&exclude_days=Mon&card_width=500&card_height=200)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: center;">
+  <img src="https://streak-stats.demolab.com?user=Khadija12319&theme=dark&hide_border=true&border_radius=4.7&exclude_days=Mon&card_height=250" width=70% alt="GitHub Streak Stats">
+</div>
 
 
 <br>
