@@ -6,4 +6,4 @@
 <br>
 
 # Current Overview
-🎓 Recent BSc graduate in Computer Science and Engineering from Daffodil International University. 🎓<br><br>👩‍💻 Frontend developer with a passion for building interactive and user-friendly, eye catchy web applications.
+🎓 Recent BSc graduate in Computer Science and Engineering from Daffodil International University. 🎓<br><br>👩‍💻 Frontend developer with a passion for building interactive and user-friendly, eye catchy web applications.<br><br>🌍 Constantly driven by curiosity and a passion for technology, I'm always on the lookout for the latest advancements in web development.<br><br>📚 Successfully completed an in-depth web development course at Programming Hero, where I sharpened my skills and gained hands-on experience. <br><br>💡 I thrive on transforming innovative ideas into functional, efficient, and scalable code. I'm excited to collaborate and create something exceptional!<br><br>🌱 I'm currently exploring new opportunities to contribute to impactful projects and further my growth as a developer.<br><br>📬 Feel free to reach out to me at khadijatul234@gmail.com. Let's connect and share our expertise!
