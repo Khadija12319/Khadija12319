@@ -26,10 +26,10 @@
 
 # Statitics
 
-<p align="center" display="inline">
+<p align="center" display="flex">
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=Khadija12319&theme=dark&show_icons=true)
 
-  ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khadija12319&theme=dark)
+  ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khadija12319&theme=dark&show_icons=true)
   
 </p>
